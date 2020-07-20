@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\bin\Debug\DataGridViewExample.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\bin\Debug\DataGridViewExample.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\bin\Debug\DataGridViewExample.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataGridViewExample\obj\Debug\DataGridViewExample.Form1.resources

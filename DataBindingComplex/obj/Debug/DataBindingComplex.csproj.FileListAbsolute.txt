@@ -1,0 +1,10 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\bin\Debug\DataBindingComplex.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\bin\Debug\DataBindingComplex.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\bin\Debug\DataBindingComplex.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataBindingComplex\obj\Debug\DataBindingComplex.Form1.resources

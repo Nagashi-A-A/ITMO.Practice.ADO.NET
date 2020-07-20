@@ -1,0 +1,10 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojAssemblyReference.cache
