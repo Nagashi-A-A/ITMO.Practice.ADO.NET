@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\bin\Debug\DBCommand.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\bin\Debug\DBCommand.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\bin\Debug\DBCommand.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\obj\Debug\DBCommand.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\obj\Debug\DBCommand.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBCommand\obj\Debug\DBCommand.pdb

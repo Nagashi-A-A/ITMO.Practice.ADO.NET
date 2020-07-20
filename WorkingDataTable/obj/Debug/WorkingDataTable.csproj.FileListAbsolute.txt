@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

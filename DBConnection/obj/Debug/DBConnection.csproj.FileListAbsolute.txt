@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\bin\Debug\DBConnection.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\bin\Debug\DBConnection.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\bin\Debug\DBConnection.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\obj\Debug\DBConnection.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\obj\Debug\DBConnection.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DBConnection\obj\Debug\DBConnection.pdb
