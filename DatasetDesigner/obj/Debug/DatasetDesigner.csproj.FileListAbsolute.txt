@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\bin\Debug\DatasetDesigner.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\bin\Debug\DatasetDesigner.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\bin\Debug\DatasetDesigner.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DatasetDesigner\obj\Debug\DatasetDesigner.Form1.resources
