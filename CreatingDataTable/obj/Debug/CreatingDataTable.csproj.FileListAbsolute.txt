@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\bin\Debug\CreatingDataTable.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\bin\Debug\CreatingDataTable.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\bin\Debug\CreatingDataTable.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CreatingDataTable\obj\Debug\CreatingDataTable.pdb
