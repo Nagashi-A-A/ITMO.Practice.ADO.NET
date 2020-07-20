@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\bin\Debug\DataViewExample.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\bin\Debug\DataViewExample.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\bin\Debug\DataViewExample.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\obj\Debug\DataViewExample.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\obj\Debug\DataViewExample.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\obj\Debug\DataViewExample.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\obj\Debug\DataViewExample.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\obj\Debug\DataViewExample.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataViewExample\obj\Debug\DataViewExample.pdb
