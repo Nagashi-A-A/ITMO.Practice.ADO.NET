@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\bin\Debug\DataSourcesWizard.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\bin\Debug\DataSourcesWizard.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\obj\Debug\DataSourcesWizard.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\obj\Debug\DataSourcesWizard.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\obj\Debug\DataSourcesWizard.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\obj\Debug\DataSourcesWizard.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataSourcesWizard\obj\Debug\DataSourcesWizard.Form1.resources
