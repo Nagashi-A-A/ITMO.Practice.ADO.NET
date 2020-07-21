@@ -1,0 +1,6 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\Linq_Student\bin\Debug\Linq_Student.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\Linq_Student\bin\Debug\Linq_Student.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\Linq_Student\bin\Debug\Linq_Student.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\Linq_Student\obj\Debug\Linq_Student.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\Linq_Student\obj\Debug\Linq_Student.pdb
