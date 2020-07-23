@@ -1,0 +1,10 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

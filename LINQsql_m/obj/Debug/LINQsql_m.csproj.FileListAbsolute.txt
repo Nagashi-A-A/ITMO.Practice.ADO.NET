@@ -1,0 +1,10 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\bin\Debug\LINQsql_m.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\bin\Debug\LINQsql_m.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\bin\Debug\LINQsql_m.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.csprojAssemblyReference.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\LINQsql_m\obj\Debug\LINQsql_m.pdb
