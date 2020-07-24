@@ -1,0 +1,9 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

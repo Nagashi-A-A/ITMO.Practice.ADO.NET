@@ -1,0 +1,12 @@
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\CodeFirst.dll.config
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\CodeFirst.dll
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\CodeFirst.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\EntityFramework.dll
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\EntityFramework.xml
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\obj\Debug\CodeFirst.dll
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\obj\Debug\CodeFirst.pdb
+D:\GitHub\Nagashi-A-A\ITMO.ADO.NET\CodeFirst\obj\Debug\CodeFirst.csprojAssemblyReference.cache
